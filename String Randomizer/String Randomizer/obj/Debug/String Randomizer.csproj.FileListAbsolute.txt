@@ -1,0 +1,7 @@
+C:\Users\santh\Downloads\String Randomizer\String Randomizer\obj\Debug\String Randomizer.csprojAssemblyReference.cache
+C:\Users\santh\Downloads\String Randomizer\String Randomizer\obj\Debug\String Randomizer.csproj.CoreCompileInputs.cache
+C:\Users\santh\Downloads\String Randomizer\String Randomizer\bin\Debug\String Randomizer.exe.config
+C:\Users\santh\Downloads\String Randomizer\String Randomizer\bin\Debug\String Randomizer.exe
+C:\Users\santh\Downloads\String Randomizer\String Randomizer\bin\Debug\String Randomizer.pdb
+C:\Users\santh\Downloads\String Randomizer\String Randomizer\obj\Debug\String Randomizer.exe
+C:\Users\santh\Downloads\String Randomizer\String Randomizer\obj\Debug\String Randomizer.pdb
