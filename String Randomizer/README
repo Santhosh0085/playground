@@ -2,10 +2,10 @@ Exercise 1:
 Write 2 functions (each with a different implementation) which accept a string and return a string containing the same characters as the input string -- but in a random order. Compare these implementations and describe why you might prefer one implementation over another (and under what circumstances). One of the implementations should use the System.Random type and its Next(int minValue, int maxValue) overload, while the other implementation isn't constrained to System.Random usage.
 
 Implementations: 
-Random API:
+Random API: (Preferable, if we are using it for some basic random generation for small amount of mumbers.)
 This is based on the first requirement. This implementation uses the C# Random API to generate random numbers between min and max values.
 
-RNGCryptoServiceProvider API:
+RNGCryptoServiceProvider API: (Preferable, if we are using it for sophisticated random generation for a high volume of numbers)
 This implementation uses the RNGCryptoServiceProvider API to generate random numbers between min and max values.
 
 My take on it: I would prefer the RNGCryptoServiceProvider as it is more secure than the Random API. Some of the advantages of using Crypto API:
